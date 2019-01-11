@@ -20,7 +20,7 @@ npm run build --report
 
 ## Demo
 
-[http://joubn.com/location-map/dist/index.html#/addressPosition](http://joubn.com/location-map/dist/index.html#/addressPosition)
+[https://qsued-teams.github.io/location-map/dist/index.html#/addressPosition](https://qsued-teams.github.io/location-map/dist/index.html#/addressPosition)
 
 
 ![](http://static-demo.joubn.com/FjrjI7FkzdplaGeB9j2PUXAfsQry)
